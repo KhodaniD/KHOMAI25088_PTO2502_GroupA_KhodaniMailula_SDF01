@@ -1,6 +1,6 @@
 # [SDF01] Challenge: My First Repo 🚀
 
-# 👋 Hi, I'm [Khodani Mailula]
+# 👋 Hi, I'm Khodani Mailula
 
 🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
 
