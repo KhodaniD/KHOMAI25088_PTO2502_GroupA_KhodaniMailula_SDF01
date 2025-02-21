@@ -20,23 +20,24 @@
 
 **Currently learning:**
 
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-
-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-circle&logo=github)
+- ![Scrimba - ](https://img.shields.io/badge/-Scrimba-181717?style=flat-circle&logo=scrimba)
+- ![GitHub - ](https://img.shields.io/badge/-GitHub-181717?style=flat-circle&logo=github)
 
 **Future Technologies:**
 
-- ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-circle&logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-circle&logo=css3), ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-circle&logo=javascript)
-- ![React](https://img.shields.io/badge/-React-black?style=flat-circle&logo=react)
+- ![JavaScript30](https://img.shields.io/badge/-JavaScript30-181717?style=flat-circle&logo=JavaScript30)
+- ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-circle&logo=css)
+- ![Java, C++ and Python](https://img.shields.io/badge/-Java,C++and%20Python-181717?style=flat-circle&logo=Java,C++and%20Python)
 
 ---
 
 ## 🏆 Soft Skills
 
-- 🤝 Teamwork & Collaboration
-- 📢 Communication Skills
-- 🎯 Problem-Solving
-- 🚀 Adaptability
+- 👂🏾 Active Listening
+- 📢 Effective Communication Skills
+- 🎯 Analytic Reasoning
+- 🚀 Resilence and Adaptability
+- ⚖️ Conflict Resolution
 
 ---
 
@@ -49,36 +50,36 @@ Here are some of my milestone projects (to be updated as I progress!):
 🔹 **Description:** My first project using GitHub to manage files.  
 🔹 **Status:** ✅ Completed
 
-### **2️⃣ Personal Portfolio** _(Coming Soon!)_
+### **2️⃣ Personal Portfolio**
+In progress - by the end of the year I would have created a personal portfolio website using HTML, CSS and JavaScript.
 
-🔹 **Description:** A simple portfolio to showcase my projects.  
-🔹 **Technologies:** HTML, CSS
+🔹 **Description:** A simple portfolio to showcase my projects and achievements.  
+🔹 **Technologies:** HTML, CSS and JavaScript30
 🔹 **Status:** ⏳ In Progress
 
 ---
 
 ## 📚 Learning Goals
 
-- 🚀 Get comfortable using Git and GitHub
-- 🎨 Learn HTML, CSS, and JavaScript
-- 💡 Build real-world projects and collaborate with others
+- 🚀 Get comfortable using Git and GitHub and naming conversions
+- 🎨 Learn HTML, CSS, and JavaScript and be able to code with ease
+- 💡 Build real-world projects and collaborate with others and showcase my code with confidence
 
 ---
 
 ## 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-📧 Email: [youremail@example.com](mailto:youremail@example.com)
+🐙 GitHub (https://github.com/KhodaniD/GitHub-Desktop.app.git) 
+🔗 LinkedIn (http://linkedin.com/in/khodani-mailula-32a75730) 
+📧 Email: [khodanid@gmail.com](mailto:khodanid@gmail.com)
 
 ---
 
 ## 🚀 Fun Fact
 
-💡 I love learning new things and can't wait to build my first website!
-
+✍️ I'm left handed
 ---
 
 ## 🏆 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhodaniD&show_icons=true&theme=radical)
