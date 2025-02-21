@@ -69,9 +69,9 @@ In progress - by the end of the year I would have created a personal portfolio w
 
 ## 📫 Connect with Me
 
-🐙[![GitHub (https://github.com/KhodaniD/GitHub-Desktop.app.git)]
-🔗[![LinkedIn (http://linkedin.com/in/khodani-mailula-32a75730)]  
-📧[![Email: [khodanid@gmail.com](mailto:khodanid@gmail.com)]
+🐙![GitHub (https://github.com/KhodaniD/GitHub-Desktop.app.git)]
+🔗![LinkedIn (http://linkedin.com/in/khodani-mailula-32a75730)]  
+📧![Email: [khodanid@gmail.com](mailto:khodanid@gmail.com)]
 
 ---
 
