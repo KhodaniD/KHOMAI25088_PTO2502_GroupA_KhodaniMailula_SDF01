@@ -47,7 +47,7 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ### **1️⃣ First GitHub Project**
 
-🔹 **Description:** My first project using GitHub to manage files.  
+🔹 **Description:** My first project using GitHub and VSCode to update README file that introduces me as a beginner in code.  
 🔹 **Status:** ✅ Completed
 
 ### **2️⃣ Personal Portfolio**
