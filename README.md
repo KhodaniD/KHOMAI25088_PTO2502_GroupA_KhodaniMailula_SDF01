@@ -54,7 +54,7 @@ Here are some of my milestone projects (to be updated as I progress!):
 In progress - by the end of the year I would have created a personal portfolio website using HTML, CSS and JavaScript.
 
 🔹 **Description:** A simple portfolio to showcase my projects and achievements.  
-🔹 **Technologies:** HTML, CSS and JavaScript30
+🔹 **Technologies:** HTML, CSS and JavaScript30 
 🔹 **Status:** ⏳ In Progress
 
 ---
@@ -70,7 +70,7 @@ In progress - by the end of the year I would have created a personal portfolio w
 ## 📫 Connect with Me
 
 🐙 GitHub (https://github.com/KhodaniD/GitHub-Desktop.app.git) 
-🔗 LinkedIn (http://linkedin.com/in/khodani-mailula-32a75730) 
+🔗 LinkedIn (http://linkedin.com/in/khodani-mailula-32a75730)  
 📧 Email: [khodanid@gmail.com](mailto:khodanid@gmail.com)
 
 ---
